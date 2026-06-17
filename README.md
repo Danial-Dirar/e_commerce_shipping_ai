@@ -107,7 +107,7 @@ Compared model performance using several evaluation metrics.
 
 ---
 
-## 🤖 Machine Learning Models Used
+## Machine Learning Models Used
 
 ### K-Nearest Neighbors (KNN)
 
@@ -225,7 +225,7 @@ python main.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Possible enhancements:
 
@@ -247,6 +247,6 @@ The analysis helps identify the strengths and weaknesses of each model and provi
 
 ---
 
-## 👨‍💻 Author
+## Author
 https://github.com/Danial-Dirar
 https://github.com/Saadman-1
